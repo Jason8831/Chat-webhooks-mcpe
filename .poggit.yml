@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Jason8831/Chat-webhooks-mcpe
+build-by-default: true
+branches:
+- main
+projects:
+  ChatWebhooks:
+    path: ChatWebhooks/
+...
